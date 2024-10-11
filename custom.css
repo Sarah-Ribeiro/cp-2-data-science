@@ -1,0 +1,18 @@
+.tables {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    gap: 20px;
+}
+
+.tables td, 
+.tables th {
+    font-size: 14px;
+}
+
+.title {
+    padding-bottom: 20px;
+}
+
+.graphics-interface h1 {
+    
+}
